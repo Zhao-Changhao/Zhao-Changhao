@@ -24,6 +24,4 @@
 
 ## 📮 Other things
 - [我的博客](https://of_mint.github.io)
-- [邮箱](1316936277@qq.com)
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
