@@ -25,7 +25,7 @@ I am an ordinary student who likes electronic engineering
 ![](https://camo.githubusercontent.com/0a719c24a5eb8062d68bdabbd7306a0dcab0b0ce7093a8550870497456863ec9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d617232312e737667)
 
 ## 📮 Other things
-- [h1J4cker's Blog](https://of_mint.github.io)
-- [Email](0xh1j4cker@gmail.com)
+- [我的博客](https://of_mint.github.io)
+- [邮箱](1316936277@qq.com)
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
