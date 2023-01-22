@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhao-Changhao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-I am an ordinary student who likes electronic engineering
+我是一个喜欢电子工程的普通学生
 
 ## 💬 About me
 
