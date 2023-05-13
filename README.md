@@ -24,5 +24,5 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 
 ## 📮 Other things
-- [我的博客](https://of_mint.github.io)
+- [我的博客](https://zhao-changhao.github.io/)
 
