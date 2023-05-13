@@ -7,10 +7,10 @@
 ## 💬 About me
 
 <!-- * has a black childhood depicted in 300,000 words, may hit the bottom line then go crazy by incident, if this happens, please forgive me, I'm very sorry about that. -->
-* 🔭正在学习电子信息类的知识
+* 🔭喜欢学习电子信息和计算机
 * :heart_eyes: 喜欢关于使用Micropython开发ESP32的相关知识
-* 🥅喜欢健身，热爱有氧
-* ⚡喜欢开发芯片和物联网，信号处理以及通信知识
+* 🥅喜欢健身
+* ⚡喜欢开发芯片和物联网，擅长python
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-Changhao&layout=compact"/>
 
